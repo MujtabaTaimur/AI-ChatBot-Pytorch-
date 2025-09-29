@@ -16,6 +16,6 @@ This project demonstrates natural language understanding (NLU) using a neural ne
 ---
 
 ## 📂 Project Structure
-── main.py # Main chatbot assistant code (training + inference)
-├── intents.json # Training data (intents, patterns, responses)
-└── README.md
+- main.py # Main chatbot assistant code (training + inference)
+- intents.json # Training data (intents, patterns, responses)
+- README.md
