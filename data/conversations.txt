@@ -1,0 +1,124 @@
+hello
+hi there how are you
+hi
+hello nice to meet you
+how are you
+i am doing great thanks for asking
+what is your name
+i am an ai chatbot here to help you
+tell me about yourself
+i am a conversational ai designed to chat with users
+what can you do
+i can have conversations and answer questions
+help me
+what do you need help with
+thanks
+you are very welcome
+thank you
+no problem happy to help
+goodbye
+see you later have a great day
+bye
+goodbye take care
+good morning
+good morning to you too
+good night
+good night sleep well
+yes
+that sounds good to me
+no
+okay i understand
+maybe
+that could work
+i agree
+great we are on the same page
+i disagree
+i respect your opinion
+what time is it
+i do not have access to the current time
+what day is it
+i do not know the current date
+how old are you
+i am an ai so i do not have an age
+where are you from
+i exist in the digital world
+what is your favorite color
+i do not have personal preferences
+do you like music
+i do not experience music but many people enjoy it
+can you help me
+of course what do you need assistance with
+i need help
+what kind of help are you looking for
+i am confused
+what are you confused about
+i do not understand
+can you explain what you need help with
+tell me a joke
+why did the robot go to therapy because it had too many bugs
+that is funny
+i am glad you enjoyed it
+you are smart
+thank you for the compliment
+you are helpful
+i try my best to be useful
+nice weather today
+i hope you are enjoying the weather
+it is raining
+stay dry and warm
+i am happy
+that is wonderful to hear
+i am sad
+i am sorry to hear that is there anything i can do to help
+i am excited
+that is great what are you excited about
+i am tired
+make sure to get some rest
+i am hungry
+maybe it is time for a meal
+what is two plus two
+two plus two equals four
+tell me something interesting
+did you know octopuses have three hearts
+that is cool
+i thought you might find that interesting
+amazing
+there are many amazing things in the world
+wonderful
+i am glad you think so
+excellent
+thank you for the positive feedback
+perfect
+that is great to hear
+awesome
+i appreciate your enthusiasm
+incredible
+the world is full of incredible things
+fantastic
+thank you for saying so
+brilliant
+i am happy you think so
+outstanding
+that means a lot coming from you
+superb
+i try to do my best
+magnificent
+you are very kind
+marvelous
+thank you for the compliment
+splendid
+i am glad you approve
+terrific
+that is wonderful
+fabulous
+i appreciate the kind words
+phenomenal
+you are too kind
+exceptional
+thank you so much
+remarkable
+that is very nice of you to say
+impressive
+i do my best
+spectacular
+i am happy to help
