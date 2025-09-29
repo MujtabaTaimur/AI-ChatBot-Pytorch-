@@ -34,23 +34,33 @@ pip install -r requirements.txt
 
 ## Quick Start
 
-### Training the Model
+### Demo Mode (Immediate Use)
 
-Train the chatbot with the provided conversation data:
+Try the chatbot immediately with our demo interface:
 
 ```bash
+python main.py demo
+```
+
+This uses pattern matching with the training data to demonstrate chatbot functionality without requiring neural network training.
+
+![Chatbot Demo](https://github.com/user-attachments/assets/58868df6-8bf8-483f-9fb5-c56f78903b2c)
+
+### Training the Neural Network Model
+
+For the full neural network experience, first train the model:
+
+```bash
+# Quick training (recommended for testing)
+python main.py quick
+
+# Or full training with all features
 python main.py train
 ```
 
-This will:
-- Load conversation pairs from `data/conversations.txt`
-- Create vocabulary from the training data
-- Train the encoder-decoder model
-- Save the trained model to `models/chatbot_model.pth`
+### Neural Network Chat
 
-### Starting a Chat Session
-
-Once trained, start chatting with the bot:
+Once trained, use the neural network chatbot:
 
 ```bash
 python main.py chat

@@ -39,7 +39,7 @@ class ChatBot:
                 
             # Load model
             if os.path.exists(model_path):
-                checkpoint = torch.load(model_path, map_location=self.device)
+                checkpoint = torch.load(model_path, map_location=self.device, weights_only=False)
                 
                 # Extract model configuration
                 config = checkpoint.get('model_config', {})
