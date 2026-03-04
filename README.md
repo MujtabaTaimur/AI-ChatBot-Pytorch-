@@ -1,11 +1,11 @@
-# 🤖 AI ChatBot (PyTorch)
+# AI ChatBot (PyTorch)
 
 A simple intent-based chatbot built with **PyTorch** and **NLTK**.  
 This project demonstrates natural language understanding (NLU) using a neural network with bag-of-words features. You can customize intents and even map them to functions (e.g., fetching stocks).
 
 ---
 
-## 🚀 Features
+##  Features
 - Trainable PyTorch model (fully connected NN).
 - Tokenization + lemmatization with NLTK.
 - Bag-of-words representation for text.
@@ -15,7 +15,7 @@ This project demonstrates natural language understanding (NLU) using a neural ne
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 - main.py # Main chatbot assistant code (training + inference)
 - intents.json # Training data (intents, patterns, responses)
 - README.md
